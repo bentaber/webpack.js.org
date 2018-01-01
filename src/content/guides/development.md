@@ -124,7 +124,7 @@ __package.json__
     "main": "webpack.config.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
-+     "watch": "webpack --watch",
++     "watch": "npx webpack --watch",
       "build": "webpack"
     },
     "keywords": [],
